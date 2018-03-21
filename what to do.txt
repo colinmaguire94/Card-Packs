@@ -1,0 +1,7 @@
+Player pushes button to buy
+Checks if buy is ok
+If ok randomly pick 5 cards.
+	Find rarity of card.
+	From rarity pick card of that rarity.
+	Show card to user.
+If not ok tell the user.

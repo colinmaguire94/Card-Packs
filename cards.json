@@ -1,0 +1,52 @@
+{
+"Basic":[
+	{
+		"id":101,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/8834/8834-UH324Fr.jpg"
+	},
+	{
+		"id":102,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/1994/1994-194048Fr.jpg"
+	}
+],
+"Common":[
+	{
+		"id":201,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/1757/1757-145Fr.jpg"
+	},
+	{
+		"id":202,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/12358/12358-1999200Fr.jpg"
+	}
+],
+"Uncommon":[
+	{
+		"id":301,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/815/815-70Fr.jpg"
+	},
+	{
+		"id":302,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/10376/10376-606179Fr.jpg"
+	}
+],
+"Rare":[
+	{
+		"id":401,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/8742/8742-534816Fr.jpg"
+	},
+	{
+		"id":402,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/25519/25519-524361Fr.jpg"
+	}
+],
+"Epic":[
+	{
+		"id":501,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/25525/25525-41TFr.jpg"
+	},
+	{
+		"id":502,
+		"cardArt":"http://www.tradingcarddb.com/Images/Cards/Baseball/1073/1073-79Fr.jpg"
+	}
+]
+}
